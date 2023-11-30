@@ -19,6 +19,8 @@
 
 ## Tech Stack
 
+ZMIANA NA GAŁĘZI FEATURED TRAINING
+
 Main Parts:
 
 - AWS Lambda
