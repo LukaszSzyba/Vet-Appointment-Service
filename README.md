@@ -1,5 +1,3 @@
-# Vet-Appointment-Service
-
 <div>
     <div align="center">
         <h1>Vet-Appointment-Service</h1>
